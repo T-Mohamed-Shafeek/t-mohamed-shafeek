@@ -6,22 +6,7 @@
   <img src="https://img.freepik.com/premium-photo/coder-developing-animated-html5-canvas-dynamic-digital-content-creation_1166177-13875.jpg?size=626&ext=jpg" alt="GitHub Header" width="800" />
 </p><br>  
 
-
-
-## 🚀 **About Me**  
-
-Hey there! I'm an **AI enthusiast**, and **data wrangler**—passionate about making machines smarter, analyzing trends, and solving real-world problems using **AI, deep learning**, and **data science**. As a recent Master’s graduate, I’m all about exploring the intersection of technology, creativity, and building cool stuffs them make actual impacts.  
-
-
-## 🛠 **Skills**  
-
-- **Programming Languages:** Python, C  
-- **Frameworks & Libraries:** NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, Streamlit, Flask, LangChain  
-- **Machine Learning & Deep Learning:** CNNs, GANs, Transformers, Large Foundational Models  
-- **Data Analysis Tools:** SQL, NoSQL, Tableau, Spreadsheets  
-- **Development Tools:** Jupyter Notebooks, Linux, Radare2, Git, GitHub, Colab, Kaggle, Canva
-
-## 💻 My Tech Stack
+## My Tech Stack
 
 ![Python](https://img.shields.io/badge/python-%23333333.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%23333333.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -40,6 +25,21 @@ Hey there! I'm an **AI enthusiast**, and **data wrangler**—passionate about ma
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23333333.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-%23333333.svg?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-%23333333.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+
+
+## 🚀 **About Me**  
+
+Hey there! I'm an **AI enthusiast**, and **data wrangler**—passionate about making machines smarter, analyzing trends, and solving real-world problems using **AI, deep learning**, and **data science**. As a recent Master’s graduate, I’m all about exploring the intersection of technology, creativity, and building cool stuffs them make actual impacts.  
+
+
+## 🛠 **Skills**  
+
+- **Programming Languages:** Python, C  
+- **Frameworks & Libraries:** NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, Streamlit, Flask, LangChain  
+- **Machine Learning & Deep Learning:** CNNs, GANs, Transformers, Large Foundational Models  
+- **Data Analysis Tools:** SQL, NoSQL, Tableau, Spreadsheets  
+- **Development Tools:** Jupyter Notebooks, Linux, Radare2, Git, GitHub, Colab, Kaggle, Canva
 
 
 
