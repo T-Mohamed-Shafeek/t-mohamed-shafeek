@@ -21,7 +21,7 @@ Hey there! I'm an **AI enthusiast**, and **data wrangler**—passionate about ma
 - **Data Analysis Tools:** SQL, NoSQL, Tableau, Spreadsheets  
 - **Development Tools:** Jupyter Notebooks, Linux, Radare2, Git, GitHub, Colab, Kaggle, Canva
 
-## 💻 Tech Stack
+## 💻 My Tech Stack
 
 ![Python](https://img.shields.io/badge/python-%23333333.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%23333333.svg?style=for-the-badge&logo=c&logoColor=white)
