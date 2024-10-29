@@ -1,18 +1,18 @@
 # Hello, I'm Mohamed Shafeek T  
 
 **Master's Graduate | Deep Learning Researcher | AI & Data Analytics Professional**
-
+<br>
 <p align="center">
   <img src="https://img.freepik.com/premium-photo/coder-developing-animated-html5-canvas-dynamic-digital-content-creation_1166177-13875.jpg?size=626&ext=jpg" alt="GitHub Header" width="800" />
 </p>  
+<br>
 
----
 
 ## 🚀 **About Me**  
 
 Hey there! I'm an **AI enthusiast**, **cybersecurity geek**, and **data wrangler**—passionate about making machines smarter, analyzing trends, and solving real-world problems using **AI, deep learning**, and **data science**. As a Master’s student at **Dr. G.R. Damodaran College of Science**, I’m all about exploring the intersection of technology, creativity, and impact.  
 
----
+
 
 ## 🛠 **Skills**  
 
@@ -22,7 +22,7 @@ Hey there! I'm an **AI enthusiast**, **cybersecurity geek**, and **data wrangler
 - **Data Analysis Tools:** SQL, NoSQL, Tableau, Spreadsheets  
 - **Development Tools:** Jupyter Notebooks, Linux, Radare2, Git, GitHub, Colab, Kaggle, Canva  
 
----
+
 
 ## 🏆 **Achievements**  
 
@@ -31,7 +31,7 @@ Hey there! I'm an **AI enthusiast**, **cybersecurity geek**, and **data wrangler
 - 🏆 **Participant** – Smart India Hackathon (SIH) 2024  
 - 🏅 **AI for Healthcare Hackathon** – DevPost (2021)  
 
----
+
 
 ## 🔬 **Research & Professional Experience**  
 
@@ -47,7 +47,7 @@ Hey there! I'm an **AI enthusiast**, **cybersecurity geek**, and **data wrangler
 - Built a linear regression model predicting housing prices with **65% R²**  
 - Designed an **interactive COVID-19 dashboard** to drive real-time decision-making  
 
----
+
 
 ## 🚀 **Projects**  
 
@@ -63,7 +63,7 @@ Hey there! I'm an **AI enthusiast**, **cybersecurity geek**, and **data wrangler
 - Analyzed **state-wide road accident trends** for 2020-2021 using EDA  
 - Developed a **Tableau dashboard** to visualize key trends and provide actionable insights  
 
----
+
 
 ## 🎓 **Education**  
 
@@ -73,7 +73,7 @@ Hey there! I'm an **AI enthusiast**, **cybersecurity geek**, and **data wrangler
 - **Bachelor of Computer Science** | GPA: **8.7/10**  
   Jamal Mohamed College of Arts and Science, Trichy  
 
----
+
 
 ## 🌟 **Certifications**  
 
@@ -84,7 +84,7 @@ Hey there! I'm an **AI enthusiast**, **cybersecurity geek**, and **data wrangler
 - Career Essentials in Generative AI  
 - *...and many more!*  
 
----
+
 
 ## 📱 **Let’s Connect!**  
 
@@ -93,7 +93,7 @@ Hey there! I'm an **AI enthusiast**, **cybersecurity geek**, and **data wrangler
 - ✉️ shafeeubaidah@gmail.com  
 - 📱 +91 6369313184  
 
----
+
 
 ## 💡 **Interests**  
 
