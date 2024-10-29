@@ -1,35 +1,83 @@
-<h1 align="center">Hey there, I'm Mohamed Shafeek T</h1>
-<h3 align="center">Researcher, AI & Data Analytics Professional</h3>
+# Hello, I'm Mohamed Shafeek T
 
-<p align="center">
+Master's Graduate | Deep Learning Researcher | AI & Data Analytics Professional
+
+<br><p align="center">
   <img src="https://img.freepik.com/premium-photo/coder-developing-animated-html5-canvas-dynamic-digital-content-creation_1166177-13875.jpg?size=626&ext=jpg" alt="GitHub Header" width="800" />
-</p>
+</p><br>
 
+## 🚀 About Me
 
+I'm a passionate and driven MCA student with a strong focus on Deep Learning, Data Science, and Cybersecurity. Currently pursuing my Master's at Dr.G.R Damodaran College of Science, I'm dedicated to leveraging AI and data analytics to solve real-world problems.
 
-- 🔭 I’m currently researching on **Malware Analytics using ML/DL techniques.**
+## 🛠 Skills
 
-- 🌱 I’m currently grinding **DSA and Problem Solving.**
+- **Languages:** Python, C
+- **Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Streamlit, Flask, LangChain
+- **ML/DL:** CNNs, GANs, Transformers, Large Foundational Models
+- **Data:** SQL, NoSQL, Tableau, Spreadsheets
+- **Tools:** Jupyter Notebooks, Linux, Radare2, Git, GitHub, Colab, Kaggle, Canva
 
-- 👯 I’m looking to collaborate on **Cutting-edge AI-Powered Projects.**
+## 🏆 Achievements
 
-- 🤝 I’m looking for help with **ML & Large Foundation Model-Based Projects.**
+- 🥇 1st Prize at Ideathon, 10th International Conference
+- 🏅 Pride of Coimbatore at Entrepreneurship Fest
+- 🏆 Smart India Hackathon (SIH) Participant, 2024
 
-- 👨‍💻 All of my projects are available at [https://shafee.netlify.app/](https://shafee.netlify.app/)
+## 🔬 Research & Experience
 
-- 📝 I am also building a Tech Community [https://datashore.carrd.co/](https://datashore.carrd.co/)
+### Deep Learning Researcher | Cochin University of Science And Technology
+- Led reverse engineering of 50,000+ malware executables
+- Developed CNN models with 99% accuracy in malware classification
+- Optimized malware detection, reducing processing time by 80%
 
-- 💬 Ask me about **any Data Science & AI Frameworks.**
+### Data Science & Business Analytics Intern | The Sparks Foundation
+- Conducted EDA on 99,000+ 911 emergency call records
+- Built a linear regression model for housing price predictions (R-squared: 65%)
+- Created an interactive COVID-19 dashboard for data-driven decision-making
 
-- 📫 How to reach me **shafeeubaidah@gmail.com**
+## 🚀 Projects
 
-- 📄 Know about my skills & experiences [https://drive.google.com/file/d/1o7jV-Qgs1h2aZiiJbIveibVjZdCpqTuC/view?usp=sharing](https://drive.google.com/file/d/1o7jV-Qgs1h2aZiiJbIveibVjZdCpqTuC/view?usp=sharing)
+### PYP (Protect Your PII) | Smart India Hackathon
+- Developed a multi-layered PII detection app using regex and NLP
+- Reduced detection time by 40%, enhancing privacy measures
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-shafeek-t-a226981b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-shafeek-t-a226981b9/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shafeeubaidah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shafeeubaidah/" height="30" width="40" /></a>
-</p>
+### Malware Classification with VGG16
+- Fine-tuned VGG16 to achieve high accuracy on multiple malware datasets
+- Increased detection reliability for robust cybersecurity defenses
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Data Analysis on TN Road Accidents
+- Performed EDA on 2020-2021 road accidents in Tamil Nadu
+- Built a Tableau dashboard to visualize trends and patterns
+
+## 📚 Education
+
+- **Master of Computer Applications (MCA)** | GPA: 9.1/10
+  Dr.G.R Damodaran College of Science, Coimbatore
+- **Bachelor of Computer Science** | GPA: 8.7/10
+  Jamal Mohamed College of Arts and Science, Trichy
+
+## 🌟 Certifications
+
+- Generative AI using LLMs
+- Deep Learning Specialization
+- GAN Specialization
+- Google Data Analytics Certification
+- Career Essentials in Generative AI
+- And more...
+
+## 🤝 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/mohamed-shafeek-t-a226981b9/)
+- [Portfolio](https://shafee.netlify.app/)
+- 📧 shafeeubaidah@gmail.com
+- 📞 +91 6369313184
+
+## 💡 Interests
+
+Content Creation | Career Guidance | Calisthenics | Photography | Cooking | Travelling | Self-Improvement
+
+---
+
+\*\*Always learning, always growing. Open to collaborations and new opportunities!\*\*
+
