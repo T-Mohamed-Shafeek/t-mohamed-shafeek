@@ -15,7 +15,7 @@ I'm a passionate and driven MCA student with a strong focus on Deep Learning, Da
 - **Languages:** Python, C
 - **Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Streamlit, Flask, LangChain
 - **ML/DL:** CNNs, GANs, Transformers, Large Foundational Models
-- **Data:** SQL, NoSQL, Tableau, Spreadsheets
+- **Data Analysis:** SQL, NoSQL, Tableau, Spreadsheets
 - **Tools:** Jupyter Notebooks, Linux, Radare2, Git, GitHub, Colab, Kaggle, Canva
 
 ## 🏆 Achievements
@@ -23,6 +23,7 @@ I'm a passionate and driven MCA student with a strong focus on Deep Learning, Da
 - 🥇 1st Prize at Ideathon, 10th International Conference
 - 🏅 Pride of Coimbatore at Entrepreneurship Fest
 - 🏆 Smart India Hackathon (SIH) Participant, 2024
+- 🏆 AI for Healthcare Hackathon by DevPost Participant, 2021
 
 ## 🔬 Research & Experience
 
@@ -50,6 +51,8 @@ I'm a passionate and driven MCA student with a strong focus on Deep Learning, Da
 - Performed EDA on 2020-2021 road accidents in Tamil Nadu
 - Built a Tableau dashboard to visualize trends and patterns
 
+### And more...
+
 ## 📚 Education
 
 - **Master of Computer Applications (MCA)** | GPA: 9.1/10
@@ -70,14 +73,14 @@ I'm a passionate and driven MCA student with a strong focus on Deep Learning, Da
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-shafeek-t-a226981b9/)
 - [Portfolio](https://shafee.netlify.app/)
-- 📧 shafeeubaidah@gmail.com
-- 📞 +91 6369313184
+- shafeeubaidah@gmail.com
+- +91 6369313184
 
 ## 💡 Interests
 
 Content Creation | Career Guidance | Calisthenics | Photography | Cooking | Travelling | Self-Improvement
 
----
+--
 
 Always learning, always growing. Open to collaborations and new opportunities!
 
