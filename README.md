@@ -1,7 +1,11 @@
 <h1 align="center">Hey there, I'm Mohamed Shafeek T</h1>
 <h3 align="center">Researcher, AI & Data Analytics Professional</h3>
 
-https://img.freepik.com/premium-photo/coder-developing-animated-html5-canvas-dynamic-digital-content-creation_1166177-13875.jpg?size=626&ext=jpg
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/coder-developing-animated-html5-canvas-dynamic-digital-content-creation_1166177-13875.jpg?size=626&ext=jpg" alt="GitHub Header" width="800" />
+</p>
+
+
 
 - 🔭 I’m currently researching on **Malware Analytics using ML/DL techniques.**
 
