@@ -105,9 +105,9 @@ Hey there! I'm an **AI enthusiast**, and **data wrangler**—passionate about ma
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23333333.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shafeek-t)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23333333.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23333333.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23333333.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shafeek-t-a226981b9/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23333333.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://shafee.netlify.app)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23333333.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedshafeekt)
 [![Email](https://img.shields.io/badge/Email-%23333333.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedshafeekt@gmail.com)
 ![Phone](https://img.shields.io/badge/📞%20+91%206369313184-%23333333.svg?style=for-the-badge)
 
