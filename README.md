@@ -4,9 +4,7 @@
 
 <br><p align="center">
   <img src="https://img.freepik.com/premium-photo/coder-developing-animated-html5-canvas-dynamic-digital-content-creation_1166177-13875.jpg?size=626&ext=jpg" alt="GitHub Header" width="800" />
-</p><br>  
-
-## My Tech Stack
+</p>
 
 ![Python](https://img.shields.io/badge/python-%23333333.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%23333333.svg?style=for-the-badge&logo=c&logoColor=white)
