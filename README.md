@@ -80,7 +80,7 @@ I'm a passionate and driven MCA student with a strong focus on Deep Learning, Da
 
 Content Creation | Career Guidance | Calisthenics | Photography | Cooking | Travelling | Self-Improvement
 
---
+---
 
 Always learning, always growing. Open to collaborations and new opportunities!
 
