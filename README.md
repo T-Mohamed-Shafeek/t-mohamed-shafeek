@@ -82,6 +82,7 @@ Content Creation | Career Guidance | Calisthenics | Photography | Cooking | Trav
 
 ---
 
-#### _Always learning, always growing. Open to collaborations and new opportunities!_
+#### _Always open to collaborations and new opportunities!_
+
 
 
