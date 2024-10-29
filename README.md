@@ -10,7 +10,7 @@
 
 ## 🚀 **About Me**  
 
-Hey there! I'm an **AI enthusiast**, **cybersecurity geek**, and **data wrangler**—passionate about making machines smarter, analyzing trends, and solving real-world problems using **AI, deep learning**, and **data science**. As a Master’s student at **Dr. G.R. Damodaran College of Science**, I’m all about exploring the intersection of technology, creativity, and impact.  
+Hey there! I'm an **AI enthusiast**, and **data wrangler**—passionate about making machines smarter, analyzing trends, and solving real-world problems using **AI, deep learning**, and **data science**. As a recent Master’s graduate, I’m all about exploring the intersection of technology, creativity, and building cool stuffs them make actual impacts.  
 
 
 
