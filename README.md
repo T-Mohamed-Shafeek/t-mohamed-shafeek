@@ -1,18 +1,23 @@
-## Hi, I'm Mohamed Shafeek! 👋  
-🚀 AI, Data Science & Malware Analytics Enthusiast | Google DSC Lead  
-🎓 MCA @CUSAT | Research Scientist @CUSAT | 1st Prize Winner @Ideathon  
+# Hi, I'm Mohamed Shafeek T 👋
 
-### 🌱 What I'm Currently Working On:
-- 🔐 Malware Analytics using Deep Learning  
-- 📡 IoT-based Voice Assistant with LLMs and ESP32  
-- 🌌 Building an AI Platform to Help Students Choose the Right Tech Domain  
+🎓 **Master's Graduate** | AI & Data Analytics Enthusiast  
+🔬 **Deep Learning Researcher** @ Cochin University of Science And Technology
+🚀 Founder / Community Leader of **Data Shore**
 
-### 📈 Tech Stack:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+---
 
-### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shafeek-t-a226981b9/)
-[![Instagram](https://img.shields.io/badge/-Data%20Shore-8a3ab9?logo=instagram&logoColor=white)](https://www.instagram.com/shafeeubaidah/)
+## 🔭 **What I'm Currently Working On:**
+-  Research on Malware Analytics using Machine Learning & Deep Learning techniques
+- 🔐 A hybrid Personal Information protection application as the solution for a Smart India Hackathon 2024 Problem Statement
+- 🌌 AI-powered Student Career Guidance Platform using LLMs  
+- 📡 Portable IoT Voice Assistant with ESP32  
+
+---
+
+## 🌱 **Technical Skills:**
+- **Programming Languages:** Python, C  
+- **Frameworks & Tools:** TensorFlow, Keras, LangChain, Streamlit, Flask  
+- **Data Analysis & Visualization:** SQL, NoSQL, Tableau, Spreadsheets  
+- **ML/DL:** CNNs, GANs, Transformers, Image Processing  
+- **Tools:** GitHub, Jupyter, Kaggle, Colab, Radare2  
+- **Soft Skills:** Leadership, Critical Thinking, Time Management  
