@@ -90,7 +90,7 @@ Hey there! I'm an **AI enthusiast**, and **data wrangler**—passionate about ma
 
 - **[LinkedIn](https://www.linkedin.com/in/mohamed-shafeek-t-a226981b9/)**  
 - **[Portfolio](https://shafee.netlify.app/)**  
-- **[Email](mailto:shafeeubaidah@gmail.com)** 
+- **shafeeubaidah@gmail.com** 
 - +91 6369313184  
 
 
