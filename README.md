@@ -68,7 +68,7 @@ Hey there! I'm an **AI enthusiast**, and **data wrangler**—passionate about ma
 
 ## 🚀 **Projects**  
 
-### **PYP (Protect Your PII)** | Smart India Hackathon  
+### **piipit** | Smart India Hackathon  
 - Built a **privacy-protection app** using **regex and NLP** to detect Personally Identifiable Information  
 - Achieved **40% faster detection time**, improving security and privacy protocols  
 
