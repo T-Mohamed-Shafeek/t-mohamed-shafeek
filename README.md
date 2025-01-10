@@ -19,11 +19,10 @@
 
 ## Connect With Me  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-0f172a?style=for-the-badge&logo=vercel)](https://shafee.netlify.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shafeek-t-a226981b9/)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/TMohamedShafeek)  
-[![Email](https://img.shields.io/badge/Email-Send_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafeeubaidah@gmail.com)  
-
+[Portfolio](https://shafee.netlify.app/) |  
+[LinkedIn](https://www.linkedin.com/in/mohamed-shafeek-t-a226981b9/) |  
+[Twitter](https://x.com/TMohamedShafeek) |  
+[Email](mailto:shafeeubaidah@gmail.com)  
 ---
 
 *"Keep learning, keep building, and make it Awesome!"*
