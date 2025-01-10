@@ -8,7 +8,7 @@
 - Bachelor of Computer Science  
 
 ## What I Do  
-- Founder of [DataShore](#): A tech community for hands-on learning.  
+- Founder of [DataShore](https://datashore.org/): A tech community for hands-on learning.  
 - Researche Scientist: Researching on malware with Machine Learning and Deep Learning.  
 - UI tinkerer who loves blending creativity and code.  
 
