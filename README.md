@@ -1,6 +1,6 @@
 # Hey, I’m Mohamed Shafeek T  
 
-![Barney Stinson Icon]([https://github.com/T-Mohamed-Shafeek/t-mohamed-shafeek/blob/main/7343ac1a-27ad-4e77-9be7-cbe1639dbf85.jpeg])  
+![Icon](https://github.com/T-Mohamed-Shafeek/t-mohamed-shafeek/blob/main/7343ac1a-27ad-4e77-9be7-cbe1639dbf85.jpeg)  
 
 ## About Me  
 - Master of Computer Applications  
