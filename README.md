@@ -1,45 +1,55 @@
-# Hello, I'm Mohamed Shafeek T  
+# 👋 Hi, I'm Mohamed Shafeek T
 
-**Master's Graduate | Deep Learning Researcher | AI & Data Analytics Professional**
+🎓 **Education**  
+- Master of Computer Applications (MCA)  
+- Post Diploma in Robotics  
+- Bachelor of Computer Science  
 
-<br><p align="center">
-  <img src="https://img.freepik.com/premium-photo/coder-developing-animated-html5-canvas-dynamic-digital-content-creation_1166177-13875.jpg?size=626&ext=jpg" alt="GitHub Header" width="800" />
-</p>
+💡 **About Me**  
+I am passionate about **Data Analytics** and **Artificial Intelligence**. My journey includes:  
+- 🧑‍🔬 **Researcher** at Cochin University of Science and Technology  
+  - Focus: Promoting **Cybersecurity** using **Machine Learning** and **Deep Learning** approaches  
+  - Specialized in **Malware Detection, Prediction, and Classification**  
+- 🌟 **Founder of [DataShore](#)**  
+  - A tech community conducting hands-on workshops and sessions  
+  - Built **Epochly** – a platform providing **personalized learning roadmaps** powered by **AI and human expertise**  
+- 💻 **Developer**  
+  - Built two end-to-end websites for **DataShore** and **Epochly**  
+  - Developed a professional portfolio website for showcasing my work  
 
-![Python](https://img.shields.io/badge/python-%23333333.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/c-%23333333.svg?style=for-the-badge&logo=c&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23333333.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23333333.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23333333.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23333333.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23333333.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23333333.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23333333.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23333333.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-%23333333.svg?style=for-the-badge&logo=Tableau&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23333333.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23333333.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23333333.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23333333.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-%23333333.svg?style=for-the-badge&logo=kaggle&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-%23333333.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+💼 **Interests and Goals**  
+- I aspire to work in **Data** or **AI-related roles**  
+- Contribute to the education industry via **DataShore** and **Epochly**, and transform them into thriving businesses  
+- Explore creative outlets through **UI design**  
 
+🍳 **Fun Facts About Me**  
+- I have a good sense of humor 😄  
+- I love **cooking**, writing **quotes**, and delving into **deep life conversations**  
+- An animal lover 🐾  
 
+---
 
-## 🚀 **About Me**  
+### 📊 Featured Projects  
+Here are some of my key projects:
 
-Hey there! I'm an **AI enthusiast**, and **data wrangler**—passionate about making machines smarter, analyzing trends, and solving real-world problems using **AI, deep learning**, and **data science**. As a recent Master’s graduate, I’m all about exploring the intersection of technology, creativity, and building cool stuffs them make actual impacts.  
+- **Epochly**: Personalized learning roadmaps platform [View Project](#)  
+- **Cybersecurity Research**: Enhancing malware detection with ML/DL [Learn More](#)  
+- **DataShore Website**: End-to-end website for my tech community [Visit Site](#)  
 
+---
 
-### _"I'm always open to collaborations, challenges, and new opportunities that push boundaries."_  
+### 📫 Connect With Me  
+- 🌐 [Portfolio Website](#)  
+- 🔗 [LinkedIn](#)  
+- 🐦 [Twitter](#)  
+- 📧 Email: [Your Email Address](mailto:your-email@example.com)
 
-Let’s create something amazing together! 🚀
+---
 
-## 🤝 Let's Connect!
+### 📈 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23333333.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shafeek-t-a226981b9/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23333333.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://shafee.netlify.app)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23333333.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohamedshafeekt)
-[![Email](https://img.shields.io/badge/Email-%23333333.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedshafeekt@gmail.com)
-![Phone](https://img.shields.io/badge/📞%20+91%206369313184-%23333333.svg?style=for-the-badge)
+---
 
+⭐ **“Stay curious, keep learning, and contribute!”** ⭐
