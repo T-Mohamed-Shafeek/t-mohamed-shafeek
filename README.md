@@ -1,28 +1,32 @@
 # 👋 Hey, I’m Mohamed Shafeek T  
 
 <br><p align="center">
-  <img src="https://img.freepik.com/premium-photo/coder-developing-animated-html5-canvas-dynamic-digital-content-creation_1166177-13875.jpg?size=626&ext=jpg" alt="GitHub Header" width="800" />
+  <img src="https://images.app.goo.gl/hhDnVdoMxqLJc6HQ6" alt="GitHub Header" width="800" />
 </p>
 
-🎓 **Tech Nerd with Degrees**  
+## About Me  
 - Master of Computer Applications  
 - Post Diploma in Robotics  
 - Bachelor of Computer Science  
 
-💻 **What I Do**  
-- 🌟 Founder of **[DataShore](#)**: A tech community for hands-on learning.  
-- 🚀 Creator of **Epochly**: AI-powered learning roadmaps for students & pros.  
-- 🧠 Researcher: Cracking malware with Machine Learning & Deep Learning.  
-- 🎨 UI tinkerer who loves blending creativity and code.  
+## What I Do  
+- Founder of [DataShore](#): A tech community for hands-on learning.  
+- Creator of Epochly: AI-powered learning roadmaps for students and professionals.  
+- Researcher: Cracking malware with Machine Learning and Deep Learning.  
+- UI tinkerer who loves blending creativity and code.  
 
-🔥 **Fun Stuff**  
-- I cook (and not just code 🍳).  
-- Love pets 🐾 and writing quotes.  
-- Got a knack for humor and deep talks.  
+## Fun Stuff  
+- I cook (and not just code).  
+- Love pets and writing quotes.  
+- Got a knack for humor and deep conversations.  
 
-📫 **Find Me Here**  
-- 🌐 [Portfolio](#) | [LinkedIn](#) | [Twitter](#) | 📧 [Email](mailto:your-email@example.com)  
+## Connect With Me  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Now-blue?style=flat-square)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-blue?style=flat-square&logo=linkedin)](#)  
+[![Twitter](https://img.shields.io/badge/Twitter-Say%20Hi-blue?style=flat-square&logo=twitter)](#)  
+[![Email](https://img.shields.io/badge/Email-Send%20a%20Mail-blue?style=flat-square&logo=gmail)](mailto:your-email@example.com)  
 
 ---
 
-⭐ *"Keep learning, keep building, and make it awesome!"*  
+*"Keep learning, keep building, and make it awesome!"*
