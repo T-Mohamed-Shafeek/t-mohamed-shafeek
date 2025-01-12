@@ -19,7 +19,7 @@
 
 ## Connect With Me  
 
-📧 [Email](mailto:shafeeubaidah@gmail.com) | [Portfolio](https://shafee.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/mohamed-shafeek-t-a226981b9/) |  [Twitter](https://x.com/TMohamedShafeek) |  
+📧 [Email](mailto:shafeeubaidah@gmail.com) | [Portfolio](https://shafee.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/mohamed-shafeek-t/) |  [Twitter](https://x.com/TMohamedShafeek) |  
   
 
 *"Keep learning, keep building, and make it Awesome!"*
