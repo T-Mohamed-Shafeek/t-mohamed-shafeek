@@ -1,6 +1,6 @@
 # Hey, I’m Mohamed Shafeek T  
 
-![Icon](https://github.com/T-Mohamed-Shafeek/t-mohamed-shafeek/blob/main/IMG_0493.jpg)  
+![Icon](https://github.com/T-Mohamed-Shafeek/t-mohamed-shafeek/blob/main/teach.jpg)  
 
 ## About Me  
 - Master of Computer Applications  
